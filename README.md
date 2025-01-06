@@ -18,3 +18,5 @@ sqlplus system/oracle@XE
 
 sqlplus gallois/gallois
 	imp gallois/gallois@localhost:1521/xe FILE=/tmp/base.dmp FULL=YE
+
+hello

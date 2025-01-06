@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gestion-station/gestion-station/myStation/lib/javax.ejb-api-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gestion-station/gestion-station/myStation/lib/javaee-api-7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

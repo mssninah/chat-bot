@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apj-ejb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gestion-station/gestion-station/build-file/lib/apj-ejb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

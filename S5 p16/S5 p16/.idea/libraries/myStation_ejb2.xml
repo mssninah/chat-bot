@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myStation-ejb2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myStationRoot/build-file/ear/myStation-ejb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

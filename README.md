@@ -1,6 +1,8 @@
 # chat-bot
 S5- PROJECT 
 
+docker run -d --name oracle-xe-11g -p 1521:1521 -p 8082:8080 oracleinanutshell/oracle-xe-11g
+
 
 docker start oracle-xe-11g
 docker exec -it oracle-xe-11g bash

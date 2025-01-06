@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/S5 p16.iml" filepath="$PROJECT_DIR$/.idea/S5 p16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moteurapj/apj-ejb/src/apj-ejb.iml" filepath="$PROJECT_DIR$/moteurapj/apj-ejb/src/apj-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moteurapj/apj-ejb/apj-ejb1.iml" filepath="$PROJECT_DIR$/moteurapj/apj-ejb/apj-ejb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStationRoot/myStation/myStation.iml" filepath="$PROJECT_DIR$/myStationRoot/myStation/myStation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStationRoot/myStation-war/myStation-war.iml" filepath="$PROJECT_DIR$/myStationRoot/myStation-war/myStation-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestion-station/gestion-station/station-ejb/station-ejb.iml" filepath="$PROJECT_DIR$/gestion-station/gestion-station/station-ejb/station-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestion-station/gestion-station/station-ejb/src/station-ejb1.iml" filepath="$PROJECT_DIR$/gestion-station/gestion-station/station-ejb/src/station-ejb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestion-station/gestion-station/station-war/station-war.iml" filepath="$PROJECT_DIR$/gestion-station/gestion-station/station-war/station-war.iml" />
+    </modules>
+  </component>
+</project>
